@@ -1,0 +1,30 @@
+.xyz {
+  position: absolute;
+  top: 20px;
+  left: 250px;
+  text-align: center;
+
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.xyz {
+  text-align: center;
+  font-size: 150%;
+}
+
+#quote {
+  padding-top: 50px;
+}
+
+#log {
+  font-size: 155%;
+  padding-top: 15px;
+}
+
+#p {
+  padding-top: 40px;
+  padding-left: 335px;
+  font-size: 140%;
+}

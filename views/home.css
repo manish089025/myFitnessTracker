@@ -1,0 +1,14 @@
+#class {
+  text-align: right;
+  margin: 20px;
+}
+.box1 {
+  text-align: left;
+  height: 500px;
+  padding: 200px;
+  margin: 200px;
+  color: solid black;
+  background-color: yellowgreen;
+  font-size: 15px;
+  justify-content: center;
+}

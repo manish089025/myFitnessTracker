@@ -1,0 +1,21 @@
+#img {
+  position: relative;
+  font-family: Arial;
+}
+.login {
+  position: absolute;
+  top: 20px;
+  left: 250px;
+  text-align: center;
+
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.login {
+  text-align: center;
+  font-size: 150%;
+}
+p {
+  margin-top: 50px;
+}
